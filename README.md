@@ -1,2 +1,5 @@
-This is my readme file - Think its meant to be written in GitHub flavoured-markdown
-so look this up at some point
+Student Directory
+
+===========================
+
+The student directory allows you to list and track the students on the Makers Academy Course
