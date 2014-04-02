@@ -19,3 +19,6 @@ puts "Robert Leon"
 puts "Emma Williams"
 puts "Joey Wolf"
 puts "Julie Walker"
+print " Overall, we have "
+print 9
+puts " great students"
